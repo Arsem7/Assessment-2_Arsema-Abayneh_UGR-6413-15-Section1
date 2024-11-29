@@ -1,0 +1,16 @@
+.form{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+
+}
+.formSection{
+  margin:auto 100px;
+}
+.formSection input, textarea{
+  width:500px;
+
+}
+.formSection button{
+  width:100px;
+}
